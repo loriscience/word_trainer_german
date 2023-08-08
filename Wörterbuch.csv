@@ -1,41 +1,44 @@
-Diffuculty,Type,Artikel,Word,Konjugation,Perfekt,Regelmäßige,Plural,Meaning,Sample_Sentence
-A2,Noun,der,Bleistift,-,-,-,Bleistifte,pencil,Hast du einen Bleistift ? 
-A2,Verb,-,essen,isst,hat gegessen,0,-,eat,Ich esse ein Pizza. 
-A2,Verb,-,lesen,liest,hat gelesen,0,-,read,Er liest ein Buch. 
-A2,Verb,-,aufmachen,macht auf,hat aufgemacht,1,-,open,Ich mache das Fenster auf.
-A2,Verb,-,zumachen,macht zu,hat zugemacht,1,-,close,Ich mache das Fenster zu.
-A2,Verb,-,aufräumen,räumt auf,hat aufgeräumt,1,-,tidy up,Ich räume das Zimmer auf.
-A2,Verb,-,gehen,geht,sein gegangen,1,-,go,Sie sind ins Kino gegangen. 
-A2,Noun,der,Stein,-,-,-,Steine,rock,Der Stein ist ins Wasser gefallen.
-A2,Verb,-,fahren,fährt,sein gefahren,0,-,drive,Du bist nach München gefahren.
-A2,Verb,-,bleiben,bleibt,sein geblieben,1,-,stay,Ich bin in Wien geblieben.
-A2,Verb,-,verlieren,verliert,hat verloren,0,-,lose,Der Mann hat die Mütze verloren. 
-A2,Verb,-,kennen,kennt,hat gekannt,0,-,know,Kennst du preiswerte Geschäfte ? 
-A2,Verb,-,zuordnen,ordnet zu,hat zugeordnet,1,-,assign,Jeder Wohnung ist ein Garten zugeordnet. 
-A2,Noun,das,Ausland,-,-,-,Auslands,foreign country,26% der Einwohner kommen aus dem Ausland. 
-A2,Noun,der,Einwohner,-,-,-,Einwohners,resident,26% der Einwohner kommen aus dem Ausland. 
-A2,Verb,-,treffen,trifft,hat getroffen,0,-,meet with,Hast du ihn getroffen ? 
-A2,Verb,-,vorstellen,stellt vor,hat vorgestellt,1,-,"imagine, introduce",Sie hat mich seinem Bruder vorgestellt. 
-B1,Verb,-,trennen,trennt,hat getrennt,1,-,"split up, separate",Wir möchten bitte zahlen. Zusammen oder getrennt ? 
-B1,Verb,-,vertrauen,vertraut,hat vertraut,1,-,trust,Vertrau ihm nicht. 
-A2,Verb,-,gefallen,gefällt,hat gefallen,0,-,like,Du gefällst mir.
-A2,Verb,-,gehören,gehört,hat gehört,1,-,belong,Das gehört meinem Bruder. 
-A2,Verb,-,helfen,hilft,hat geholfen,0,-,help,Die Kinder helfen ihm. 
-A2,Verb,-,nehmen,nimmt,hat genommen,0,-,take,Nimm die Medikamente ! 
-A2,Verb,-,vergessen,vergisst,hat vergessen,0,-,forget,Vergesst eure Pässe nicht.
-A2,Noun,die,Rechnung,-,-,-,Rechnungen,"bill, check",Die Rechnung bitte. 
-A2,Verb,-,bestellen,bestellt,hat bestellt,1,-,order,Wer hat die Heiße Schokolade bestellt ? 
-A2,Adjektive,-,preiswert,-,-,-,-,inexpensive,Gibt es ein preiswertes Hotel hier ? 
-A2,Noun,der,Fehler,-,-,-,Fehlers,mistake,Jeder macht Fehler
-A2,Noun,der,Nachbar,-,-,-,Nachbarn,neighbor,Polen ist ein Nachbar Deutschlands 
-A2,Verb,-,lassen,lässt,hat gelassen,0,-,"let, leave, give up, stop","Ich lasse das Rauchen
+Diffuculty,Type,Artikel,Word,Konjugation,Prateritum,Perfekt,Regelmäßige,Plural,Komparativ,Superlativ,Meaning,Sample_Sentence
+A2,Noun,der,Bleistift,-,-,-,-,Bleistifte,-,-,pencil,Hast du einen Bleistift ? 
+A2,Verb,-,essen,isst,aß,hat gegessen,0,-,-,-,eat,Ich esse ein Pizza. 
+A2,Verb,-,lesen,liest,las,hat gelesen,0,-,-,-,read,Er liest ein Buch. 
+A2,Verb,-,aufmachen,macht auf,machte auf,hat aufgemacht,1,-,-,-,open,Ich mache das Fenster auf.
+A2,Verb,-,zumachen,macht zu,machte zu,hat zugemacht,1,-,-,-,close,Ich mache das Fenster zu.
+A2,Verb,-,aufräumen,räumt auf,räumte auf,hat aufgeräumt,1,-,-,-,tidy up,Ich räume das Zimmer auf.
+A2,Verb,-,gehen,geht,ging,sein gegangen,1,-,-,-,go,Sie sind ins Kino gegangen. 
+A2,Noun,der,Stein,-,-,-,-,Steine,-,-,rock,Der Stein ist ins Wasser gefallen.
+A2,Verb,-,fahren,fährt,fuhr,sein gefahren,0,-,-,-,drive,Du bist nach München gefahren.
+A2,Verb,-,bleiben,bleibt,blieb,sein geblieben,1,-,-,-,stay,Ich bin in Wien geblieben.
+A2,Verb,-,verlieren,verliert,verlor,hat verloren,0,-,-,-,lose,Der Mann hat die Mütze verloren. 
+A2,Verb,-,kennen,kennt,kannte,hat gekannt,0,-,-,-,know,Kennst du preiswerte Geschäfte ? 
+A2,Verb,-,zuordnen,ordnet zu,ordnete zu,hat zugeordnet,1,-,-,-,assign,Jeder Wohnung ist ein Garten zugeordnet. 
+A2,Noun,das,Ausland,-,,-,-,Auslands,-,-,foreign country,26% der Einwohner kommen aus dem Ausland. 
+A2,Noun,der,Einwohner,-,,-,-,Einwohners,-,-,resident,26% der Einwohner kommen aus dem Ausland. 
+A2,Verb,-,treffen,trifft,traf,hat getroffen,0,-,-,-,meet with,Hast du ihn getroffen ? 
+A2,Verb,-,vorstellen,stellt vor,stellte vor,hat vorgestellt,1,-,-,-,"imagine, introduce",Sie hat mich seinem Bruder vorgestellt. 
+B1,Verb,-,trennen,trennt,trennte,hat getrennt,1,-,-,-,"split up, separate",Wir möchten bitte zahlen. Zusammen oder getrennt ? 
+B1,Verb,-,vertrauen,vertraut,vertraute,hat vertraut,1,-,-,-,trust,Vertrau ihm nicht. 
+A2,Verb,-,gefallen,gefällt,gefiel,hat gefallen,0,-,-,-,like,Du gefällst mir.
+A2,Verb,-,gehören,gehört,gehörte,hat gehört,1,-,-,-,belong,Das gehört meinem Bruder. 
+A2,Verb,-,helfen,hilft,half,hat geholfen,0,-,-,-,help,Die Kinder helfen ihm. 
+A2,Verb,-,nehmen,nimmt,nahm,hat genommen,0,-,-,-,take,Nimm die Medikamente ! 
+A2,Verb,-,vergessen,vergisst,vergaß,hat vergessen,0,-,-,-,forget,Vergesst eure Pässe nicht.
+A2,Noun,die,Rechnung,-,-,-,-,Rechnungen,-,-,"bill, check",Die Rechnung bitte. 
+A2,Verb,-,bestellen,bestellt,bestellte,hat bestellt,1,-,-,-,order,Wer hat die Heiße Schokolade bestellt ? 
+A2,Adjektive,-,preiswert,-,-,-,-,-,preiswerter,am preiswertesten,inexpensive,Gibt es ein preiswertes Hotel hier ? 
+A2,Noun,der,Fehler,-,-,-,-,Fehlers,-,-,mistake,Jeder macht Fehler
+A2,Noun,der,Nachbar,-,-,-,-,Nachbarn,-,-,neighbor,Polen ist ein Nachbar Deutschlands 
+A2,Verb,-,lassen,lässt,ließ,hat gelassen,0,-,,,"let, leave, give up, stop","Ich lasse das Rauchen
 Sie lässt sein Motorrad in der Garage stehen 
 Der Laptop lässt sich nicht reparieren
 Du lässt dir eine Pizza bringen"
-A2,Noun,die,Möglichkeit,-,-,-,Möglichkeiten,"option, possibility",Es gibt mehrere Möglichkeiten. 
-A2,Noun,der,Spiegel,-,-,-,Spiegel,mirror,Wo ist ein Spiegel ? 
-A2,Verb,-,bekommen,bekommt,hat bekommen,1,-,"receive,get",Ich habe deinen Brief vorgestern bekommen
-A2,Verb,-,merken,merkt,hat gemerkt,1,-,"notice, realize, remember","Ich merke es genau, ich bekomme einen Schnupfen. "
-A2,Verb,-,aufhören,hört auf,hat aufgehört,1,-,"stop, quit","Bis er das Rauchen aufgehört hat, hat er pro Tag circa 20 Zigaretten geraucht"
-B2,Adjektive,-,welktbekannt,-,-,-,-,world-famous,Der Kölner Dom ist weltbekannt
-A2,Noun,der,Stau,-,-,-,Staue,traffic,"Tut mir leid, ich stehe im Stau"
+A2,Noun,die,Möglichkeit,-,-,-,-,Möglichkeiten,-,-,"option, possibility",Es gibt mehrere Möglichkeiten. 
+A2,Noun,der,Spiegel,-,-,-,-,Spiegel,-,-,mirror,Wo ist ein Spiegel ? 
+A2,Verb,-,bekommen,bekommt,bekam,hat bekommen,1,-,-,-,"receive,get",Ich habe deinen Brief vorgestern bekommen
+A2,Verb,-,merken,merkt,merkte,hat gemerkt,1,-,-,-,"notice, realize, remember","Ich merke es genau, ich bekomme einen Schnupfen. "
+A2,Verb,-,aufhören,hört auf,hörte auf,hat aufgehört,1,-,-,-,"stop, quit","Bis er das Rauchen aufgehört hat, hat er pro Tag circa 20 Zigaretten geraucht"
+B2,Adjektive,-,weltbekannt,-,-,-,-,-,keine komparativ,keine superlativ,world-famous,Der Kölner Dom ist weltbekannt
+A2,Noun,der,Stau,-,-,-,-,Staue,-,-,traffic,"Tut mir leid, ich stehe im Stau"
+B1,Adjektive,-,speziell,-,-,-,-,-,spezieller,am speziellsten,special,Für Ausländer gibt es in allen Ländern spezielle Regeln
+C1,Verb,-,ausreden,redet aus,redete aus,hat ausgeredet,1,-,-,-,"make an excuse, talk out of, finish speaking",Lass mich doch ausreden !
+A2,Noun,die,Ausrede,-,-,-,-,Ausreden,-,-,excuse,Tom hat immer Ausreden
